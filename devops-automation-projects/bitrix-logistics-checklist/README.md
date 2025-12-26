@@ -1,19 +1,21 @@
-## Bitrix24 Logistics Checklist Automation
+# Bitrix24 Checklist Automation
 
-PHP script for automating logistics checklists
-inside Bitrix24 business processes.
+## 🧠 Overview
 
-### Features
-- Automatic checklist generation
-- Workflow status validation
-- Logistics task control
-- Simple Bitrix24 integration
+This script automates checklist logic inside Bitrix24 tasks.
+It can be used in business processes, deal automations, logistics workflows.
 
-### Use cases
-- Warehouse operations
-- Delivery control
-- Internal logistics monitoring
+## 📌 Features
 
-### Tech stack
-- PHP
-- Bitrix24 REST API
+- Parses Bitrix24 webhook data
+- Detects checklist status
+- Logs events
+- Flexible integration
+
+## 🛠 Usage
+
+Place this script on your server and integrate
+with Bitrix24 CRM via webhook:
+1. Configure webhook in Bitrix24
+2. Place script on PHP-capable server
+3. Adjust field names to match your checklist
