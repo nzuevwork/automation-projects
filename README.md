@@ -50,3 +50,8 @@ To run or customize:
 2. See the project folder you want to use
 3. Follow instructions in that folder’s README.md
 4. Add your own API keys/tokens (not included for safety)
+
+5. ## Контакты
+
+GitHub: [https://github.com/nzuevwork](https://github.com/nzuevwork)
+Email: [n.zuev.work@gmail.com](mailto:n.zuev.work@gmail.com)
